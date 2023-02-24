@@ -22,7 +22,7 @@
 1. give executing permissions to startup.sh and shutdown.sh which are under bin. 
    ```sh
    chmod +x /opt/tomcat/bin/startup.sh 
-   startup.sh
+   ./startup.sh
    ```
 
 1. create link files for tomcat startup.sh and shutdown.sh 
